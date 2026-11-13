@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pth
+*.pt
+model_weights/
+datasets/
+imagenet-a/
+imagenetv2-matched-frequency-format-val/
